@@ -24,33 +24,28 @@ The dispersion of available properties in the city
 
 The following files were used:
 
-Summary information and metrics for listings in Athens
-------------------------------------------------------
+Summary information and metrics for listings in Athens:
 listings_sum_2007  (July 2020)
 listings_sum_1907  (July 2019)
 listings_sum_1807  (July 2018)
 listings_sum_1507  (July 2015)
 
-Detailed Listings data for Athens
----------------------------------
+Detailed Listings data for Athens:
 listings_2007.csv (July 2020)
 listings_1907.csv (July 2019)
 listings_1807.csv (July 2018)
 listings_1507.csv (July 2015)
 
-Detailed Calendar Data for listings in Athens
----------------------------------------------	
+Detailed Calendar Data for listings in Athens:
 calendar_2007.csv.gz  (July 2020)
 calendar_1907.csv.gz  (July 2019)
 calendar_1807.csv.gz  (July 2018)
 calendar_1507.csv.gz  (July 2015)
 
-Summary Review data and Listing ID 
------------------------------------
+Summary Review data and Listing ID:
 reviews_2007.csv 
 
-Neighbourhood list
-------------------
+Neighbourhood list:
 neighbourhoods.csv
 
 
