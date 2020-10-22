@@ -1,10 +1,7 @@
 # -Data-Science-Blog-Post
  __Data Science Blog Post - Project 1__
 
-__GitHub Repository__
-https://github.com/ppapazaf1/-Data-Science-Blog-Post.git
-
-__Medium Post__
+_Medium Post_
 https://medium.com/@panagiotis.papazafeiropoulos/athens-and-airbnb-in-the-pandemic-era-87f05def1ca0
 
 This Notebook is related with the analysis of Airbnb data for Athens
